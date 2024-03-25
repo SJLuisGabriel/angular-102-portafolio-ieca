@@ -41,12 +41,6 @@
         <h3>🟡 ngModel</h3>
         <span>Nombre: </span>
         <div>
-            <!-- 
-                    #nameInput="ngModel"
-                -->
-            <!-- 
-                    pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$"
-                 -->
             <input required type="text" #nameInput="ngModel" [(ngModel)]="persona.nombre" />
 
             <span class="message" [class.error]="persona.nombre === ''">
@@ -68,39 +62,19 @@
                 <h4>Completa el campo nombre 🤓</h4>
             </ng-template>
 
-            <!-- v17 -->
-            <!-- @if (nameInput.valid) {
-                    <button>
-                        Agregar Persona
-                    </button>
-                } @else {
-                    <h4>Completa el campo nombre 🤓</h4>
-                } -->
-
             <hr />
 
             <h2>🔵 *ngFor</h2>
             <h4>Lista de Nombres</h4>
             <ul style="text-align: center;" *ngIf="listaPersonas.length > 0">
-                <!-- v16 -->
                 <li *ngFor="let persona of listaPersonas; index as i;">
                     <div>
                         <strong>{{ persona }}</strong>
                         <!-- EJERCICIO 01 -->
                         <!-- Agregar funcionalidad para eliminar el nombre de la persona de la lista utilizando el span con ❌ -->
-                        <span> ❌ </span>
+                        <span (click)="eliminarPersona(i)"> ❌ </span>
                     </div>
                 </li>
-
-                <!-- v17 -->
-                <!-- @for (persona of listaPersonas; track persona; let i = $index) {
-                        <li>
-                            <div>
-                                <strong>{{ persona }}</strong>
-                            </div>
-                        </li>
-                    } -->
-
             </ul>
 
             <h2>🔵 ngClass </h2>
@@ -156,13 +130,14 @@
                     name="passkey"
                     [(ngModel)]="registroInputs.passkey"
                     #passkey="ngModel"
+                    pattern=".{8,}"
                 >
             </div>
 
             <button [disabled]="registroForm.invalid" type="submit">Registrar</button>
             <!-- EJERCICIO 03 -->
             <!-- * Habilitar botón para limpiar información -->
-            <button>Limpiar</button>
+            <button (click)="limpiarFormulario()">Limpiar</button>
         </form>
     </div>
 
@@ -173,9 +148,10 @@
             <div *ngFor="let miPokemon of pokedex">
                 <a href="{{ miPokemon.url }}" target="_blank">
                     <span>{{ miPokemon.name }}</span>
+                    <!-- EJERCICIO 04 -->
+                    <!-- * Agregar la imagen del pokemon por medio del endpoint que se encuentra en miPokemon.url -->
+                    <img [src]="miPokemon.url" alt="Imagen de {{ miPokemon.name }}" />
                 </a>
-                <!-- EJERCICIO 04 -->
-                <!-- * Agregar la imagen del pokemon por medio del endpoint que se encuentra en miPokemon.url -->
             </div>
         </div>
     </div>
