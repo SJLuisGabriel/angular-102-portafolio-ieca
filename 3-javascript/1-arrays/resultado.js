@@ -7,7 +7,7 @@
     slice():    Crea una copia superficial de parte de un array en un nuevo array.
     shift():    Elimina y devuelve el primer elemento de un array.
     splice():   Puede eliminar, agregar y reemplazar elementos en posiciones específicas 
-*/
+*/ 
 
 /* 
     ESCENARIO 1 : VACIANDO EL CARRITO CON TOTAL
