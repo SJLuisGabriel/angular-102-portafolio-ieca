@@ -38,6 +38,12 @@ function vaciarCarritoConTotal() {
     ];
 
     // Completa aquí código de escenario 1
+
+    const articulo = carrito.length;
+    for (let i = 0; i < articulo.length; i++) {
+        const articulo = carrito.shift();
+        
+    }
 }
 
 /*

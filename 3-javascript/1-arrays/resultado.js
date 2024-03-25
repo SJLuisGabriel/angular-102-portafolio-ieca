@@ -9,7 +9,7 @@
     splice():   Puede eliminar, agregar y reemplazar elementos en posiciones específicas 
 */
 
-/*
+/* 
     ESCENARIO 1 : VACIANDO EL CARRITO CON TOTAL
     Recorre la lista carrito con un bucle donde cada producto vaya eliminándose del carrito 
     y utiliza la variable `total` para ir contabilizando la cuenta

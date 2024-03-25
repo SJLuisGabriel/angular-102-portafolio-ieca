@@ -1,0 +1,222 @@
+[33mcommit 3de6fc56d8ddca852cc41fd94d36aa1d67bcc9e9[m[33m ([m[1;36mHEAD -> [m[1;32mevidencias[m[33m)[m
+Merge: 82ca8a6 2cb1ac9
+Author: Luis Gabriel <19031333@itcelaya.edu.mx>
+Date:   Mon Mar 25 14:57:06 2024 -0600
+
+    Merge branch 'master' of https://github.com/tlamabyte-code/angular-102-portafolio-ieca into evidencias
+
+[33mcommit 2cb1ac9f4b00b041c58807ad6a7f6ee9e30e6d87[m[33m ([m[1;31mupstream/master[m[33m)[m
+Author: Eduardo ML (ieca) <instructor.emunozl@ieca.edu.mx>
+Date:   Sat Mar 9 21:21:44 2024 -0600
+
+    angular instrucciones
+
+[33mcommit 5e6a9077a7cf961237076bedb4975ceadda15a47[m
+Author: Eduardo ML (ieca) <instructor.emunozl@ieca.edu.mx>
+Date:   Sat Mar 9 21:18:19 2024 -0600
+
+    Instrucciones ejercicios angular
+
+[33mcommit 954eb10c6437b78244a46379f9108d8dc6cd0667[m
+Author: Eduardo ML (ieca) <instructor.emunozl@ieca.edu.mx>
+Date:   Sat Mar 9 20:31:29 2024 -0600
+
+    Ejercicios angular
+
+[33mcommit 82ca8a63c23cb37919b37881bacd57428a1e4617[m
+Merge: fe1333d 083de27
+Author: Luis Gabriel <19031333@itcelaya.edu.mx>
+Date:   Sun Mar 3 21:27:19 2024 -0600
+
+    Merge branch 'master' of https://github.com/tlamabyte-code/angular-102-portafolio-ieca into evidencias
+
+[33mcommit 083de27974a957ba1b14e82bae0f4e037fc72969[m
+Merge: 607b613 0e3e798
+Author: Eduardo ML (ieca) <instructor.emunozl@ieca.edu.mx>
+Date:   Sun Mar 3 14:17:45 2024 -0600
+
+    Merge branch 'master' of eml7-ieca.github.com:tlamabyte-code/angular-102-portafolio-ieca
+
+[33mcommit 607b6137710da740fd6228af0348c0f0b7c079b5[m
+Author: Eduardo ML (ieca) <instructor.emunozl@ieca.edu.mx>
+Date:   Sun Mar 3 14:17:08 2024 -0600
+
+    nuevos ejercicios de Javascript
+
+[33mcommit 0e3e7984c7f609f4238d9ff839077dd2ef184390[m
+Merge: 296ad85 ca33d0a
+Author: eml7-ieca <147795338+eml7-ieca@users.noreply.github.com>
+Date:   Fri Mar 1 20:23:08 2024 -0600
+
+    Merge pull request #1 from tlamabyte-code/funcionalidad-1001
+    
+    funcionalidad lista 1001
+
+[33mcommit ca33d0a49b0aca5d98fb8b1cb881ef4da0dfedb6[m
+Author: Eduardo ML (ieca-sim-1) <instructor.emunozl@ieca.edu.mx>
+Date:   Fri Mar 1 20:20:27 2024 -0600
+
+    funcionalidad lista 1001
+
+[33mcommit 296ad85f12e9c36c74a380ea2670b55b0dffcc24[m
+Merge: c445c3c 196e29e
+Author: Eduardo ML (ieca-sim-2) <instructor.emunozl@ieca.edu.mx>
+Date:   Fri Mar 1 19:56:45 2024 -0600
+
+    merge
+
+[33mcommit c445c3c09ef0dc47a2ec90abb30aba417528f111[m
+Author: Eduardo ML (ieca-sim-2) <instructor.emunozl@ieca.edu.mx>
+Date:   Fri Mar 1 19:54:55 2024 -0600
+
+    cambios sim-2
+
+[33mcommit 196e29ee20990407e62c1764a883c209b99bb303[m
+Author: Eduardo ML (ieca-sim-1) <instructor.emunozl@ieca.edu.mx>
+Date:   Fri Mar 1 19:53:02 2024 -0600
+
+    cambios sim-1
+
+[33mcommit 4fda4a26c354bda9ebf2b3ddcf2f2a7d33b0f081[m
+Author: Eduardo ML (ieca-sim-1) <instructor.emunozl@ieca.edu.mx>
+Date:   Fri Mar 1 19:51:03 2024 -0600
+
+    cambios sim-1
+
+[33mcommit 0f28e800fcf82d176056c9feedc60ce8afa1a4c3[m
+Author: eml7-ieca <147795338+eml7-ieca@users.noreply.github.com>
+Date:   Fri Mar 1 19:43:22 2024 -0600
+
+    Update README.md
+
+[33mcommit cfd41ee300ae828a7e5a833661ccc129ed03e9bb[m
+Author: Eduardo ML (ieca-sim-1) <instructor.emunozl@ieca.edu.mx>
+Date:   Fri Mar 1 19:40:58 2024 -0600
+
+    Cambio hecho por sim-1
+
+[33mcommit 2de164e11fb081e3f5cb7edea8960565619e04b5[m
+Author: Eduardo ML (ieca) <instructor.emunozl@ieca.edu.mx>
+Date:   Fri Mar 1 18:54:22 2024 -0600
+
+    ejercicio para ejemplificar
+
+[33mcommit a154d11ca1bb0e69c47544f30668651470b948b5[m
+Author: Eduardo ML (ieca) <instructor.emunozl@ieca.edu.mx>
+Date:   Fri Mar 1 18:53:34 2024 -0600
+
+    return without conflict
+
+[33mcommit 3b793d35cb5cc8ef098a29007cb37a089064cfa6[m
+Merge: 557dd93 6084fae
+Author: Eduardo ML (sim-1) <instructor.emunozl@ieca.edu.mx>
+Date:   Fri Mar 1 18:47:32 2024 -0600
+
+    merge
+
+[33mcommit 557dd93a6da5c001dfa5abd9282c277cf7683573[m
+Author: Eduardo ML (sim-1) <instructor.emunozl@ieca.edu.mx>
+Date:   Fri Mar 1 18:43:36 2024 -0600
+
+    sim-1
+
+[33mcommit 6084faef77a3aab1ef5cec4be74ffe2fa39fddcf[m
+Author: Eduardo ML (sim-2) <instructor.emunozl@ieca.edu.mx>
+Date:   Fri Mar 1 18:43:26 2024 -0600
+
+    sim-2
+
+[33mcommit 8c0cd8c54989fc33233fc73186206d84eeb4c200[m
+Author: Eduardo ML (ieca) <instructor.emunozl@ieca.edu.mx>
+Date:   Thu Feb 29 21:28:34 2024 -0600
+
+    Revert "Commit precipitado"
+    
+    This reverts commit b95a532b781ae997175629f0e3302449fb6a2915.
+
+[33mcommit b95a532b781ae997175629f0e3302449fb6a2915[m
+Author: Eduardo ML (ieca) <instructor.emunozl@ieca.edu.mx>
+Date:   Thu Feb 29 21:28:10 2024 -0600
+
+    Commit precipitado
+
+[33mcommit 04f9e4dad29818863f62714f955d3c08e24b5fec[m
+Author: Eduardo ML (ieca) <instructor.emunozl@ieca.edu.mx>
+Date:   Thu Feb 29 21:09:25 2024 -0600
+
+    ejercicio para ejemplificar
+
+[33mcommit b69e52f96355df8fa22574c48c844908a3e511ca[m
+Author: Eduardo ML (ieca) <instructor.emunozl@ieca.edu.mx>
+Date:   Thu Feb 29 21:06:39 2024 -0600
+
+    Ejercicio para ejemplificar git
+
+[33mcommit 8b3c49b0677c1eb389957b161bd16131e35df39f[m
+Author: Eduardo ML (ieca) <instructor.emunozl@ieca.edu.mx>
+Date:   Thu Feb 29 21:05:47 2024 -0600
+
+    Revert "nuevo ejercicio"
+    
+    This reverts commit 21dfcf4524dd5e827d446a570d23248fdfd1b10f.
+
+[33mcommit 21dfcf4524dd5e827d446a570d23248fdfd1b10f[m
+Author: Eduardo ML (ieca) <instructor.emunozl@ieca.edu.mx>
+Date:   Thu Feb 29 21:03:27 2024 -0600
+
+    nuevo ejercicio
+
+[33mcommit 7c824293a0fc3429f3553268add75df2e67350df[m
+Author: Eduardo ML (ieca) <instructor.emunozl@ieca.edu.mx>
+Date:   Thu Feb 29 21:02:20 2024 -0600
+
+    delete file
+
+[33mcommit f6e1ceeb4e2728bb7b191358335492fd7bdabf72[m
+Author: Eduardo ML (ieca) <instructor.emunozl@ieca.edu.mx>
+Date:   Wed Feb 28 07:44:58 2024 -0600
+
+    cambio readme ejercicio 1
+
+[33mcommit d6f764559b6fdbe0375c6350a04a6f2b3ff28c96[m
+Author: eml7-ieca <147795338+eml7-ieca@users.noreply.github.com>
+Date:   Sun Feb 25 02:07:11 2024 -0600
+
+    Update README.md
+
+[33mcommit fe1333d3ab5d179c6b30dc4526d8d677eebdd5c6[m[33m ([m[1;31morigin/evidencias[m[33m)[m
+Merge: c688abc b7c7239
+Author: Luis Gabriel <19031333@itcelaya.edu.mx>
+Date:   Sat Feb 24 13:23:34 2024 -0600
+
+    Merge branch 'master' of https://github.com/tlamabyte-code/angular-102-portafolio-ieca into evidencias
+
+[33mcommit c688abc082b5b60101df6c34275fed43f1a78561[m
+Author: Luis Gabriel <19031333@itcelaya.edu.mx>
+Date:   Sat Feb 24 13:23:20 2024 -0600
+
+    Descripción de tus cambios
+
+[33mcommit b7c7239d156eba4cf6af1137a12da7104b510c77[m
+Author: Eduardo ML (ieca) <instructor.emunozl@ieca.edu.mx>
+Date:   Sat Feb 24 13:09:48 2024 -0600
+
+    Ejercicios git & fundamentos
+
+[33mcommit 4100ffb0a9244f1d74ae2aa32b59163c033395c5[m
+Author: Eduardo ML (ieca) <instructor.emunozl@ieca.edu.mx>
+Date:   Sat Feb 24 13:08:32 2024 -0600
+
+    Ejercicios git & fundamentos
+
+[33mcommit 8590a5d8543c78c30f1fec4eacbb7841b8e15aa0[m
+Author: Luis Gabriel <19031333@itcelaya.edu.mx>
+Date:   Sat Feb 24 13:07:08 2024 -0600
+
+    tarea 1 yo.txt
+
+[33mcommit c0958733dda3c636c458bff58cda0b06eb426ec3[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Eduardo ML (ieca) <instructor.emunozl@ieca.edu.mx>
+Date:   Sat Feb 24 12:20:39 2024 -0600
+
+    Archivo README
